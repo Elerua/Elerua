@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elerua
-- 👀 I’m interested in health, engineering, AI, research.
+- 👀 I’m interested in health, engineering, AI, research and neuroscience.
 - 🌱 I’m currently learning Engineering in ECE Paris, and I am specialized in Health and Technologies
 - 💞️ I’m looking to collaborate on a WebProjet or a AI project (a basic project to learn more)
 - 📫 How to reach me aurele.duparc@free.fr or aurele.duparc@edu.ece.fr
